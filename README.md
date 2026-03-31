@@ -19,6 +19,7 @@ This project uses a **Logistic Regression model** trained on historical weather 
 
 ---
 
+
 ## 📊 Dataset
 
 The dataset includes the following features:
